@@ -15,7 +15,7 @@ function toggleMode() {
   }
 
   if (html.classList.contains('light')) {
-    img.setAttribute("alt", "Foto de Vinicius Severo com Camila Nascimento")
+    img.setAttribute("alt", "Foto de Vinicius Severo com fundo azul")
   } else {
     img.setAttribute("alt", "Foto de Vinicius Severo")
   }
